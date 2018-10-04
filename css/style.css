@@ -1,0 +1,57 @@
+body{
+	font-family: 'Charmonman', cursive;
+	font-family: 'K2D', sans-serif;
+}
+
+.PetShop {
+	width: 760px;
+	height: 600px;
+	margin: 10px auto;
+	padding: 15px;
+	border-radius: 5px;
+	background-color: grey;
+
+}
+
+.PetList {
+	background-color: white;
+	float: left;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 16px;
+	width: 200px;
+	height: 400px;
+}
+
+.ListName {
+	color: black;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 0;
+}
+
+li {
+	text-align: left;
+	color: black;
+	font-size: 18px;
+	padding: 1px;
+	padding-left: 3px;
+}
+
+ul {
+	list-style-type: none;
+	padding-left: 0;
+}
+
+li:hover {
+	background-color: grey;
+
+}
+
+h2 {
+	color: white;
+	text-align: center;
+	padding: 0;
+	font-size: 28px;
+}
